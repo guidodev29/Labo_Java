@@ -1,0 +1,11 @@
+BeansStateless\Asistencia.class
+LocalBeans\LocalUtil.class
+BeansStateful\ItoDoList.class
+BeansStateful\toDoList.class
+BeansStateless\IAsistencia.class
+LocalBeans\LocalLib.class
+BeansSingleton\Soporte.class
+com\mycompany\labobeans\LaboBeans.class
+LocalBeans\ILib.class
+LocalBeans\ILocal.class
+BeansSingleton\ISoporte.class
